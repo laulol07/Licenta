@@ -19,10 +19,14 @@ Proiect Licenta CL
  - Stepper - gata
  - DC_Pump - gata
  - nivel apa - nu este gata 
+
  
  ## Main
  - nu este gata
  
+ ## Hardware
+ - Schematic - partial
+ - Layout - nu este gata
  
  ### References
  [1] Block diagram builder - https://www.diagrameditor.com/ 
