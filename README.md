@@ -7,20 +7,18 @@ Proiect Licenta CL
  - Pwm(ch5) - pompa - gata
  - UART - gata
  - GPIO - gata
- - ADC - nu este gata (optional)
- 
- ## Nefunctional
- - Timer1 - Senzor distanta - nu este gata
+ - ADC - gata
+ - Timer1 - Senzor distanta - gata
  
  
  ## Aplicatie
  - LCD  - gata
  - Pulse counter - gata
  - Encoder - gata
- - Senzor distanta - nu este gata
- - Stepper - nu este gata
- - DC_Pump - nu este gata
- - nivel apa - nu este gata (optional)
+ - Senzor distanta - gata
+ - Stepper - gata
+ - DC_Pump - gata
+ - nivel apa - nu este gata 
  
  ## Main
  - nu este gata
